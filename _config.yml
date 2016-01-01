@@ -1,6 +1,6 @@
 name: Koskars
 favicon: null
-layout_spectrum: 0.63974
+layout_spectrum: 0.77089
 typography_spectrum: 0.229729
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#000000'
   brandStrength: 0.318693
   lightness: 0.75
-  saturation: 0.8125
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
