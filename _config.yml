@@ -1,4 +1,19 @@
-analytics: {}
+name: Koskars
+favicon: null
+layout_spectrum: 0.417792
+typography_spectrum: 0.229729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#E0E0D0'
@@ -7,12 +22,7 @@ color:
     - '#000000'
     - '#000000'
   brandStrength: 0.318693
-  lightness: 0.933901
-  rhythmicContrast: 0.680528
-  saturation: 0.753378
-cta: {}
-layout_spectrum: 0.417792
-name: Koskars
-opengraph: {}
+  lightness: 0.1875
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
-typography_spectrum: 0.229729
