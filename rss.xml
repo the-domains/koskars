@@ -4,7 +4,7 @@
         <description><![CDATA[Koskars]]></description>
         <link>https://thegrid.ai/koskars/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 13:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 12:50:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/koskars/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You are this]]></title>
@@ -12,20 +12,6 @@
             <link>https://thegrid.ai/koskars/you-are-this/index.html</link>
             <guid isPermaLink="false">1f6afdee-9790-4f53-a309-1b21b52ae8af</guid>
             <pubDate>Fri, 01 Jan 2016 13:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>asc</p>]]></description>
-            <link>https://thegrid.ai/koskars/7d42f9d2-1abe-482d-b16c-4abb067ff1b1/index.html</link>
-            <guid isPermaLink="false">7d42f9d2-1abe-482d-b16c-4abb067ff1b1</guid>
-            <pubDate>Fri, 01 Jan 2016 13:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4df5b9e-910e-4bd7-993e-6fbef43b2ce4.jpg">]]></description>
-            <link>https://thegrid.ai/koskars/004cb9ee-0f31-4764-9dea-66ebcf68c8f7/index.html</link>
-            <guid isPermaLink="false">004cb9ee-0f31-4764-9dea-66ebcf68c8f7</guid>
-            <pubDate>Fri, 25 Dec 2015 22:25:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
